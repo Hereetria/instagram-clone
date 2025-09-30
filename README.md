@@ -94,7 +94,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 </p>
 
 <p align="center">
-  <img src="./public/screenshots/profile-notifications.png" width="48%">
+  <img src="./public/screenshots/profile-notifications.png" width="32%">
 </p>
 
 ---
