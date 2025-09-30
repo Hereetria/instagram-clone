@@ -57,7 +57,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 | Profile & Notifications |  |  |
 |--------------------------|--|--|
-| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" /> |
+| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="33%" /> |
 
 
 ## 🖼️ Screenshots
@@ -74,7 +74,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 | Profile & Notifications | Messages |
 |--------------------------|----------|
-| <img src="./public/screenshots/profile-notifications.png" width="100%" /> |
+| <img src="./public/screenshots/profile-notifications.png" width="33%" /> |
 
 
 ## 🖼️ Screenshots
