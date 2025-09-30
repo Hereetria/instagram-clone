@@ -58,7 +58,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
   <img src="./public/screenshots/explore-search.png" width="32%">
 </p>
 
-<p align="center">
+<p>
   <img src="./public/screenshots/profile-notifications.png" width="32%">
 </p>
 
