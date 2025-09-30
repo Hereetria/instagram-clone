@@ -45,7 +45,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🖼️ Screenshots
 
-> ✅ Pages marked with a check are fully designed. Others use static dummy data to keep the layout consistent.
+> ✅ Pages marked with a check are fully designed. Others use static dummy cells to keep the grid aligned.
 
 | Mainstream ✅ | Stories ✅ | Create ✅ |
 |-------------|-----------|-----------|
@@ -55,10 +55,9 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 |-------|----------|------------------|
 | <img src="./public/screenshots/reels.png" width="100%" /> | <img src="./public/screenshots/messages.png" width="100%" /> | <img src="./public/screenshots/explore-search.png" width="100%" /> |
 
-| Profile & Notifications | Dummy | Dummy |
-|--------------------------|-------|-------|
-| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="https://via.placeholder.com/300x180?text=Placeholder" width="100%" /> | <img src="https://via.placeholder.com/300x180?text=Placeholder" width="100%" /> |
-
+| Profile & Notifications |  |  |
+|--------------------------|--|--|
+| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" height="auto" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" height="auto" /> |
 
 ---
 
