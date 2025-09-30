@@ -7,11 +7,7 @@ No source code is shared — This project is intended for presentation and demon
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
-<br>
-
 ---
-
-<br>
 
 ## 📌 Project Overview
 
@@ -20,13 +16,7 @@ It focuses on UI structure, layout, and responsive behavior.
 The backend is provided by the [XenoTerra API](https://github.com/Hereetria/XenoTerra_API), which is an **open-source project** hosted separately.
 
 > ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
-
-<br>
-
 ---
-
-<br>
-
 ## ✨ Features
 
 This project recreates core **Instagram-like functionalities** through a responsive front-end design.  
