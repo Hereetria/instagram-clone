@@ -11,10 +11,6 @@ No source code is shared — This project is intended for presentation and demon
 
 ---
 
-___
-
-***
-
 ## 📌 Project Overview
 
 This repository presents the **frontend design** of an Instagram clone project.  
