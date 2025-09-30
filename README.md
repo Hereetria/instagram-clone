@@ -74,7 +74,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 | Profile & Notifications | Messages |
 |--------------------------|----------|
-| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="./public/screenshots/messages.png" width="100%" /> |
+| <img src="./public/screenshots/profile-notifications.png" width="100%" /> |
 
 
 ## 🖼️ Screenshots
@@ -95,7 +95,6 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 <p align="center">
   <img src="./public/screenshots/profile-notifications.png" width="48%">
-  <img src="./public/screenshots/messages.png" width="48%">
 </p>
 
 ---
