@@ -9,7 +9,10 @@ No source code is shared — This project is intended for presentation and demon
   <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
 </p>
 
+<br>
 ---
+<br>
+
 
 ## 📌 Project Overview
 
