@@ -11,6 +11,8 @@ This repository presents the **frontend design** of an Instagram clone project.
 It focuses on UI structure, layout, and responsive behavior.  
 No frontend source code is included — the implementation is kept private, while the backend (XenoTerra_API) is an **open-source project** hosted separately.
 
+> ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
+
 --
 
 ## ✨ Features
@@ -30,73 +32,40 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 --
 
-## 🧰 Tech Stack - ⚛️ **React** — Component-based UI
-- 🎨 **Material UI** — UI component library
-- 🌐 **Apollo Client** — GraphQL client for managing queries, mutations, and local state 
-- 🧾 **GraphQL Code Generator** — For generating typed queries and hooks from the graphql schema
+## 🧰 Tech Stack
 
-> Note: GraphQL is not listed as a “tool” here because it’s a backend/query language. Apollo Client is the actual front-end technology in use.
+- ⚛️ **React** — Component-based UI  
+- 🎨 **Material UI** — UI component library  
+- 🌐 **Apollo Client** — GraphQL client for queries, mutations, local state  
+- 🧾 **GraphQL Code Generator** — Generates typed queries and hooks
+
+> ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
 
 ---
 
 ## 🖼️ Screenshots
 
-> 📌 Pages marked with ✅ are fully designed. Others display static dummy data for layout demonstration.
+> ✅ Pages marked with a check are fully designed. Others use static dummy data to show layout.
 
-<p>
-  <img src="./public/screenshots/mainstream.png" alt="Mainstream Page" width="250" />
-  <br>
-  <strong>Mainstream Page ✅</strong><br>
-  Main feed with stories and post interactions.
-</p>
+| Mainstream ✅ | Stories ✅ | Create ✅ |
+|-------------|-----------|-----------|
+| ![Main](./public/screenshots/mainstream.png) | ![Stories](./public/screenshots/stories.png) | ![Create](./public/screenshots/create.png) |
 
-<p>
-  <img src="./public/screenshots/stories.png" alt="Stories Page" width="250" />
-  <br>
-  <strong>Stories Page ✅</strong><br>
-  Full-screen story viewer with horizontal navigation.
-</p>
+| Reels | Messages | Explore & Search |
+|-------|----------|------------------|
+| ![Reels](./public/screenshots/reels.png) | ![Messages](./public/screenshots/messages.png) | ![Explore](./public/screenshots/explore-search.png) |
 
-<p>
-  <img src="./public/screenshots/create.png" alt="Create Page" width="250" />
-  <br>
-  <strong>Create Page ✅</strong><br>
-  Post creation modal with all necessary details and advanced settings.
-</p>
-
-<p>
-  <img src="./public/screenshots/reels.png" alt="Reels Page" width="250" />
-  <br>
-  <strong>Reels Page</strong><br>
-  Vertical reels feed with simplified navigation for easy scrolling.
-</p>
-
-<p>
-  <img src="./public/screenshots/messages.png" alt="Messages Page" width="250" />
-  <br>
-  <strong>Messages Page</strong><br>
-  Direct messaging layout with sidebar conversations and chat interface.
-</p>
-
-<p>
-  <img src="./public/screenshots/explore-search.png" alt="Explore/Search Page" width="250" />
-  <br>
-  <strong>Explore & Search Page</strong><br>
-  Explore feed showcasing other users' posts, with the search panel opened on the side (dummy data).
-</p>
-
-<p>
-  <img src="./public/screenshots/profile-notifications.png" alt="Profile & Notifications Page" width="250" />
-  <br>
-  <strong>Profile & Notifications Page</strong><br>
-  Full profile view with user info, posts, saved and tagged sections, and the notifications panel opened on the side.
-</p>
+| Profile & Notifications |
+|--------------------------|
+| ![Profile](./public/screenshots/profile-notifications.png) |
 
 ---
 
 ## ⚠️ Disclaimer
 
 This project is **not affiliated with or endorsed by Meta or Instagram**.  
-It showcases the **frontend design** of the XenoTerra project.  
-The backend of XenoTerra (**XenoTerra_API**) is an **open-source project** hosted separately, while the frontend implementation remains private.  
-This repository is shared **purely for design presentation and portfolio purposes**.
+It is a **frontend design showcase** for the [XenoTerra API](https://github.com/Hereetria/XenoTerra_API) project.  
+The backend is open source, while the frontend implementation remains private.  
+This repository is shared **purely for portfolio and educational purposes**.
+
+---
