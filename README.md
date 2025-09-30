@@ -57,7 +57,46 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 | Profile & Notifications |  |  |
 |--------------------------|--|--|
-| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" height="auto" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" height="auto" /> |
+| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==" width="100%" /> |
+
+
+## 🖼️ Screenshots
+
+> ✅ Pages marked with a check are fully designed. Others use static dummy cells to keep the grid aligned.
+
+| Mainstream ✅ | Stories ✅ | Create ✅ |
+|-------------|-----------|-----------|
+| <img src="./public/screenshots/mainstream.png" width="100%" /> | <img src="./public/screenshots/stories.png" width="100%" /> | <img src="./public/screenshots/create.png" width="100%" /> |
+
+| Reels | Messages | Explore & Search |
+|-------|----------|------------------|
+| <img src="./public/screenshots/reels.png" width="100%" /> | <img src="./public/screenshots/messages.png" width="100%" /> | <img src="./public/screenshots/explore-search.png" width="100%" /> |
+
+| Profile & Notifications | Messages |
+|--------------------------|----------|
+| <img src="./public/screenshots/profile-notifications.png" width="100%" /> | <img src="./public/screenshots/messages.png" width="100%" /> |
+
+
+## 🖼️ Screenshots
+
+> ✅ Pages marked with a check are fully designed. Others use static dummy cells to keep the grid aligned.
+
+<p align="center">
+  <img src="./public/screenshots/mainstream.png" width="32%">
+  <img src="./public/screenshots/stories.png" width="32%">
+  <img src="./public/screenshots/create.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="./public/screenshots/reels.png" width="32%">
+  <img src="./public/screenshots/messages.png" width="32%">
+  <img src="./public/screenshots/explore-search.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="./public/screenshots/profile-notifications.png" width="48%">
+  <img src="./public/screenshots/messages.png" width="48%">
+</p>
 
 ---
 
