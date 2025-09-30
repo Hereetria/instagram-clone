@@ -22,7 +22,9 @@ It focuses on UI structure, layout, and responsive behavior.
 The backend is provided by the [XenoTerra API](https://github.com/Hereetria/XenoTerra_API), which is an **open-source project** hosted separately.
 
 > ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
----
+
+<br>
+
 ## ✨ Features
 
 This project recreates core **Instagram-like functionalities** through a responsive front-end design.  
@@ -38,8 +40,6 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 - 💬 **Messaging Interface** — Direct messaging layout with chat and conversation sidebar
 - 📱 **Responsive UI** — Fluid layout that scales across different screen sizes
 
-<br>
----
 <br>
 
 ## 🖼️ Screenshots
@@ -63,8 +63,6 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 </p>
 
 <br>
----
-<br>
 
 ## 🧰 Tech Stack
 
@@ -79,11 +77,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 > ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
 
 <br>
----
-<br>
 
 ## ⚠️ Disclaimer
 
 This project is **not affiliated with or endorsed by Meta or Instagram**.  
-
----
