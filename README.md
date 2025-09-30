@@ -49,15 +49,16 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 | Mainstream ✅ | Stories ✅ | Create ✅ |
 |-------------|-----------|-----------|
-| ![Main](./public/screenshots/mainstream.png) | ![Stories](./public/screenshots/stories.png) | ![Create](./public/screenshots/create.png) |
+| <img src="./public/screenshots/mainstream.png" width="100%" /> | <img src="./public/screenshots/stories.png" width="100%" /> | <img src="./public/screenshots/create.png" width="100%" /> |
 
 | Reels | Messages | Explore & Search |
 |-------|----------|------------------|
-| ![Reels](./public/screenshots/reels.png) | ![Messages](./public/screenshots/messages.png) | ![Explore](./public/screenshots/explore-search.png) |
+| <img src="./public/screenshots/reels.png" width="100%" /> | <img src="./public/screenshots/messages.png" width="100%" /> | <img src="./public/screenshots/explore-search.png" width="100%" /> |
 
-| Profile & Notifications |
-|--------------------------|
-| ![Profile](./public/screenshots/profile-notifications.png) |
+| Profile & Notifications |  |  |
+|--------------------------|--|--|
+| <img src="./public/screenshots/profile-notifications.png" width="100%" /> |  |  |
+
 
 ---
 
