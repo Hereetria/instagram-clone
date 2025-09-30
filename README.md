@@ -7,6 +7,15 @@ No source code is shared — This project is intended for presentation and demon
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📌 Project Overview
