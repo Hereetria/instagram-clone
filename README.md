@@ -60,8 +60,11 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 </p>
 
 <p align="center">
-  <img src="./public/screenshots/profile-notifications.png" width="50%">
-    <img src="./public/screenshots/profile-notifications.png" width="50%">
+  <img src="./public/screenshots/profile-notifications.png" width="32%">
+    <img src="./public/screenshots/profile-notifications.png" width="32%">
+</p>
+<p align="center">
+  <img src="./public/screenshots/profile-notifications.png" width="32%">
 </p>
 
 ---
