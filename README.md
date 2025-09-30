@@ -8,13 +8,7 @@ No source code is shared — This project is intended for presentation and demon
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
 ---
-
-
-
-
-
-
-
+<br>
 
 ## 📌 Project Overview
 
@@ -25,6 +19,7 @@ The backend is provided by the [XenoTerra API](https://github.com/Hereetria/Xeno
 > ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
 
 ---
+<br>
 
 ## ✨ Features
 
@@ -42,6 +37,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 - 📱 **Responsive UI** — Fluid layout that scales across different screen sizes
   
 ---
+<br>
 
 ## 🖼️ Screenshots
 
@@ -64,6 +60,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 </p>
 
 ---
+<br>
 
 ## 🧰 Tech Stack
 
@@ -78,6 +75,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 > ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
 
 ---
+<br>
 
 ## ⚠️ Disclaimer
 
