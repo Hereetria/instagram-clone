@@ -8,6 +8,7 @@ No source code is shared — this project is intended for **portfolio and educat
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![GraphQL Code Generator](https://img.shields.io/badge/GraphQL%20Code%20Generator-FF4785?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
