@@ -20,7 +20,7 @@ No frontend source code is included — the implementation is kept private, whil
 
 > ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
 
---
+---
 
 ## ✨ Features
 
@@ -36,17 +36,6 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 - 🔔 **Notifications Panel** — Sidebar notifications integrated into the profile section  
 - 🎬 **Reels Experience** — Vertical reels feed with smooth scrolling interaction  
 - 💬 **Messaging Interface** — Direct messaging layout with chat and conversation sidebar
-
---
-
-## 🧰 Tech Stack
-
-- ⚛️ **React** — Component-based UI  
-- 🎨 **Material UI** — UI component library  
-- 🌐 **Apollo Client** — GraphQL client for queries, mutations, local state  
-- 🧾 **GraphQL Code Generator** — Generates typed queries and hooks
-
-> ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
 
 ---
 
@@ -69,6 +58,17 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 <p align="center">
   <img src="./public/screenshots/profile-notifications.png" width="32%">
 </p>
+
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ **React** — Component-based UI  
+- 🎨 **Material UI** — UI component library  
+- 🌐 **Apollo Client** — GraphQL client for queries, mutations, local state  
+- 🧾 **GraphQL Code Generator** — Generates typed queries and hooks
+
+> ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
 
 ---
 
