@@ -8,7 +8,9 @@ No source code is shared — This project is intended for presentation and demon
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
 <br>
+
 ---
+
 <br>
 
 ## 📌 Project Overview
@@ -20,7 +22,9 @@ The backend is provided by the [XenoTerra API](https://github.com/Hereetria/Xeno
 > ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
 
 <br>
+
 ---
+
 <br>
 
 ## ✨ Features
