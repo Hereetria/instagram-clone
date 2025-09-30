@@ -7,6 +7,7 @@ No source code is shared — This project is intended for presentation and demon
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
+<br>
 ---
 <br>
 
@@ -18,6 +19,7 @@ The backend is provided by the [XenoTerra API](https://github.com/Hereetria/Xeno
 
 > ℹ️ This repository is for **design presentation only**, not for distributing frontend code.
 
+<br>
 ---
 <br>
 
@@ -35,7 +37,8 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 - 🎬 **Reels Experience** — Vertical reels feed with smooth scrolling interaction  
 - 💬 **Messaging Interface** — Direct messaging layout with chat and conversation sidebar
 - 📱 **Responsive UI** — Fluid layout that scales across different screen sizes
-  
+
+<br>
 ---
 <br>
 
@@ -59,6 +62,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
   <img src="./public/screenshots/profile-notifications.png" width="32%">
 </p>
 
+<br>
 ---
 <br>
 
@@ -74,6 +78,7 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 > ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
 
+<br>
 ---
 <br>
 
