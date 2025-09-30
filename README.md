@@ -60,6 +60,8 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 <p>
   <img src="./public/screenshots/profile-notifications.png" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
 
 <br>
