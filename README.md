@@ -68,12 +68,12 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🧰 Tech Stack
 
-**Core**  
+**🧠 Core**   
 - ⚛️ **React** — Component-based UI library
 - 🎨 **Material UI** — UI component library and design system
 - 🌐 **Apollo Client** — GraphQL client
 
-**Tooling**  
+**🛠️ Tooling**  
 - 🧾 **GraphQL Code Generator** — Type generator for GraphQL
 
 > ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
