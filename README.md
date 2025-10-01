@@ -77,6 +77,10 @@ This project was built using the following technologies:
 
 This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
 
+---
+
+© 2025 Yusuf Okan Sirkeci — [Hereetria](https://github.com/Hereetria)
+
 <br>
 
 ## ⚠️ Disclaimer
