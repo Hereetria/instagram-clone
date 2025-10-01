@@ -13,7 +13,9 @@ No source code is shared — This project is intended for presentation and demon
 
 <br>
 
-[🐛 Report Bug](../../issues/new?labels=bug) · [✨ Request Feature](../../issues/new?labels=enhancement)
+[![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge)](../../issues/new?labels=bug)
+[![Request Feature](https://img.shields.io/badge/✨_Request_Feature-blue?style=for-the-badge)](../../issues/new?labels=enhancement)
+
 
 <br>
 
