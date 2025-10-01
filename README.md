@@ -65,6 +65,8 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🧰 Tech Stack
 
+This project was built using the following technologies:
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
