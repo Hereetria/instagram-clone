@@ -1,16 +1,11 @@
-# 📱 Instagram Clone UI
-
-This repository showcases a **UI-focused Instagram clone** built with modern front-end tools.  
-No source code is shared — This project is intended for presentation and demonstration purposes.
+# 📱 Instagram Clone UI - Modern Responsive Frontend Showcase
 
 <br>
 
 [![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge)](../../issues/new?labels=bug)
 [![Request Feature](https://img.shields.io/badge/✨_Request_Feature-blue?style=for-the-badge)](../../issues/new?labels=enhancement)
 
-
 <br>
-
 
 ## 📌 Project Overview
 
