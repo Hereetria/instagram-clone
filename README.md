@@ -41,6 +41,8 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🖼️ Screenshots
 
+> ℹ️ A quick visual overview of the project’s main pages and features.
+
 <p align="center">
   <img src="./public/screenshots/mainstream.png" width="32%">
   <img src="./public/screenshots/stories.png" width="32%">
