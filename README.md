@@ -41,8 +41,6 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🖼️ Screenshots
 
-> ✅ Pages marked with a check are fully designed. Others use static dummy cells to keep the grid aligned.
-
 <p align="center">
   <img src="./public/screenshots/mainstream.png" width="32%">
   <img src="./public/screenshots/stories.png" width="32%">
