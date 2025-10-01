@@ -1,4 +1,4 @@
-# 📱 Instagram Clone UI — Modern Responsive Frontend Showcase
+# 📱 Instagram Clone UI Showcase — Modern Responsive Frontend Showcase
 
 <br>
 
