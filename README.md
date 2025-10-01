@@ -36,7 +36,9 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🖼️ Screenshots
 Shown below in order:  
-**1. Mainstream** · **2. Stories** · **3. Create Dialog** · **4. Reels** · **5. Messages** · **6. Explore & Search Panel** · **7. Profile & Notifications Panel**
+**1. Mainstream** · **2. Stories** · **3. Create Dialog**
+**4. Reels** · **5. Messages** · **6. Explore & Search Panel**
+**7. Profile & Notifications Panel**
 
 
 <p align="center">
