@@ -5,14 +5,6 @@ No source code is shared — This project is intended for presentation and demon
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
-</p>
-
-<br>
-
 [![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge)](../../issues/new?labels=bug)
 [![Request Feature](https://img.shields.io/badge/✨_Request_Feature-blue?style=for-the-badge)](../../issues/new?labels=enhancement)
 
@@ -73,15 +65,12 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 
 ## 🧰 Tech Stack
 
-**🧠 Core**   
-- ⚛️ **React** — Component-based UI library
-- 🎨 **Material UI** — UI component library and design system
-- 🌐 **Apollo Client** — GraphQL client
-
-**🛠️ Tooling**  
-- 🧾 **GraphQL Code Generator** — Type generator for GraphQL
-
-> ℹ️ GraphQL itself is a backend/query language, so only Apollo Client is listed as a front-end tool here.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL%20Code%20Generator-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
 
 <br>
 
