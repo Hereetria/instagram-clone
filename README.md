@@ -71,7 +71,7 @@ This project was built using the following technologies:
 
 <br>
 
-## 📝 License
+## 📜 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
