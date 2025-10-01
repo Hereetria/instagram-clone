@@ -35,8 +35,9 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 <br>
 
 ## 🖼️ Screenshots
+Shown below in order:  
+**1. Mainstream** · **2. Stories** · **3. Create Dialog** · **4. Reels** · **5. Messages** · **6. Explore & Search Panel** · **7. Profile & Notifications Panel**
 
-> ℹ️ A quick visual overview of the project’s main pages and features.
 
 <p align="center">
   <img src="./public/screenshots/mainstream.png" width="32%">
@@ -59,8 +60,6 @@ All layouts are built to adapt seamlessly across mobile, tablet, and desktop.
 <br>
 
 ## 🧰 Tech Stack
-
-This project was built using the following technologies:
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
